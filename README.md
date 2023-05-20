@@ -1,4 +1,4 @@
-## Pollution_Indices
+## Pollution Indices in Mexico City
 
 #### College Project - Make sure to read the PDF article "T1_Indices_de_Contaminacion.pdf".
 
