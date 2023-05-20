@@ -5,13 +5,13 @@
 <h3 align="center">Original</h3>
 <p align="center"> <img src = "/Graphs/original.png" width = 850> </p>
 
-<h3 align="center">Rectangular</h3>
+<h3 align="center">Rectangular Kernel</h3>
 <p align="center"> <img src = "/Graphs/rectangular.png" width = 850> </p>
 
-<h3 align="center">Triangular</h3>
+<h3 align="center">Triangular Kernel</h3>
 <p align="center"> <img src = "/Graphs/triangular.png" width = 850> </p>
 
-<h3 align="center">Gaussian</h3>
+<h3 align="center">Gaussian Kernel</h3>
 <p align="center"> <img src = "/Graphs/gaussian.png" width = 850> </p>
 
 <h3 align="center">Histograms</h3>
