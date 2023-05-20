@@ -20,10 +20,10 @@
 <h2 align="left">Recipe</h2>
 
 1. In this simple GitHub Repository, I uploaded 5 files. 
-2. Make sure to download the "T1_Indices_de_Contaminacion.ipynb", it'll show the full explanation, source code and graphs. You actually do not need to run the Jupyter Notebook, but if you want to run it, go to the next step.
-3. I'll recommend you for simplicity, open the Jupyter Notebook on Google Colab, that way you’ll only need to upload the 4 databases, and run everything.
+2. Make sure to download the "T1_Indices_de_Contaminacion.py", it'll show the full explanation, source code and graphs.
+3. I'll recommend you for simplicity, open the .py file and run it on Google Colab, that way you’ll only need to upload the 4 databases, and run everything.
 4. Download the four .csv databases provided also on this repo, “indice_2019.csv”, “indice_2020.csv”, “indice_2021.csv” and “indice_2022.csv”.
-5. Upload them to Google Colab and click on “Run all”.
+5. Upload them to Google Colab, copy and paste everything (by chunks as explained on the .py file) and click on “Run all”.
 6. That’s it!
 
 #### Check out my social stuff for more:
