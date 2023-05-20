@@ -19,13 +19,12 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 3 files, each containing the resource code to generate the three fractals: Mandelbrot Set, Julia Set and Sierpinski Triangle.
-2. You don't need anything special to run the programs.
-
-<h2 align="left">Extra Stuff</h3>
-
-- I downloaded the graphics and save them so you can see them at a glance.
-- This is a College Project, make sure to check out the PDF file and check out the autors.
+1. In this simple GitHub Repository, I uploaded 5 files. 
+2. Make sure to download the "T1_Indices_de_Contaminacion.ipynb", it'll show the full explanation, source code and graphs. You actually do not need to run the Jupyter Notebook, but if you want to run it, go to the next step.
+3. I'll recommend you for simplicity, open the Jupyter Notebook on Google Colab, that way you’ll only need to upload the 4 databases, and run everything.
+4. Download the four .csv databases provided also on this repo, “indice_2019.csv”, “indice_2020.csv”, “indice_2021.csv” and “indice_2022.csv”
+5. Upload them, and click on “Run all”.
+6. That’s it!
 
 #### Check out my social stuff for more:
 
