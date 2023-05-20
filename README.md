@@ -3,19 +3,19 @@
 #### College Project - Make sure to read the PDF article "T1_Indices_de_Contaminacion.pdf".
 
 <h3 align="center">Original</h3>
-<p align="center"> <img src = "/Graphs/original.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/original.png" width = 750> </p>
 
 <h3 align="center">Rectangular</h3>
-<p align="center"> <img src = "/Graphs/rectangular.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/rectangular.png" width = 750> </p>
 
 <h3 align="center">Triangular</h3>
-<p align="center"> <img src = "/Graphs/triangular.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/triangular.png" width = 750> </p>
 
 <h3 align="center">Gaussian</h3>
-<p align="center"> <img src = "/Graphs/gaussian.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/gaussian.png" width = 750> </p>
 
 <h3 align="center">Histograms</h3>
-<p align="center"> <img src = "/Graphs/histograms.png" width = 550> </p>
+<p align="center"> <img src = "/Graphs/histograms.png" width = 750> </p>
 
 <h2 align="left">Recipe</h2>
 
